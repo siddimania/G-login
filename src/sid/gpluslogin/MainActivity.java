@@ -1,5 +1,8 @@
 package sid.gpluslogin;
-// Siddhartha Dimania @2014
+/* 
+@author: Siddhartha Dimania 
+@year: 2014
+*/
 import sid.gpluslogin.R;
 
 import java.io.InputStream;
